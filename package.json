@@ -9,6 +9,6 @@
     "electron": "5.0.6"
   },
   "scripts": {
-    "start": "electron main.js"
+    "start": "electron ./app/main.js"
   }
 }

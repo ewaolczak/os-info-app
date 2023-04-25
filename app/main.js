@@ -1,8 +1,7 @@
 'use strict';
 
 const path = require('path');
-const electron = require('electron');
-const { app, BrowserWindow } = electron;
+const { app, BrowserWindow } = require('electron');
 
 function main() {
   // create new window
